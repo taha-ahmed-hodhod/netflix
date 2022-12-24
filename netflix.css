@@ -1,0 +1,195 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+.continers{
+    background-image: url(https://assets.nflxext.com/ffe/siteui/vlv3/5e48e7b6-350d-48d9-96d6-de8ca173c89f/083b0034-e11a-432d-9a74-0b6b0eec0e39/EG-en-20221219-popsignuptwoweeks-perspective_alpha_website_medium.jpg);
+    
+    width: 100%;
+
+    height: 1000px;
+}
+
+nav{
+    
+    display: flex;
+    justify-content: space-between;
+    
+}
+.left-nav{
+    margin-left: 45px;
+    padding-top: 5rem;
+
+}
+.right-nav{
+    display: flex;
+    margin-right: 45px;
+    padding-top: 5rem;
+    font-size: 48px;
+    
+}
+.sign-in{
+    background-color: red;
+    color: white;
+    margin: 20px;
+    font-size: 2rem;
+    font-weight: 400;
+    padding: 7px 17px;
+    line-height: normal;
+    border-radius: 3px;
+
+}
+
+select{
+ background: rgba(0,0,0,.4);
+ border-radius: 1px;
+ color :#fff;
+ padding: .5rem 1.375rem;
+}
+.words{
+    margin-top: 180px;
+
+}
+    
+h1{
+color: white;
+font-size: 3.125rem;
+text-align: center;
+}
+h2{
+    color: white;
+    font-size: 29px;
+text-align: center;
+}
+h3{
+    color: white;
+    font-size: 25px;
+    text-align: center;
+}
+.opp{
+    text-align: center;
+}
+.em{
+    box-sizing: border-box;
+    font-size: 40px;
+    border: solid 0px color #8c8c8c;
+    box-shadow: none;
+    height: 64px;
+    margin-top: 30px;
+    border-radius: 5px;
+    outline: none;
+}
+.em :hover{ 
+    border-color: #0071eb;
+}
+
+.em2{
+    color: rgb(255, 247, 247);
+    background-color: rgb(243, 6, 37);
+    font-size: 32px;
+    height: 64px;
+    width: 230px;
+    border-radius: 5px;
+    box-shadow: none;
+    margin-left: -1.5px;
+}
+.section-1{
+display: flex;
+justify-content: space-around;
+background-color: black;
+
+
+}
+.pragraph{
+    text-align: center;
+    padding-top: 150px;
+    padding-left: 160px;
+    font-size: 49px;
+}
+.img1{
+padding-bottom: 60px;
+position: relative;
+z-index: 1;
+}
+.section-2{
+display: flex;
+justify-content: space-around;
+    background-color: black;
+}
+.img2{
+    padding-bottom: 200px;
+    
+
+}
+.mobile-0819.jpg{
+position: relative;
+z-index: 1;
+}
+.our-story-card{
+    position: absolute;
+    right: 40px;
+     width: 550px ;
+   bottom:160px ;
+
+   
+
+}
+.ppo1{position: relative;
+    z-index: 1;
+
+}
+.pragraph2{
+    padding-top: 150px;
+    padding-right: 160px;
+
+}
+.section-3{
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+}
+.img3{
+padding-bottom: 400px;
+font-size: 440px 330px;
+position: relative;
+
+}
+
+.pragraph3{padding-top: 150px;
+    padding-left: 160px;
+    font-size: 55px;
+
+
+}
+.ppo{
+    position:relative ;
+    z-index: 1;
+}
+.our-story-card-video{
+    position: absolute;
+    right: 110px;
+     width: 420px ;
+   bottom:600px ;
+
+
+}
+.section-4{display: flex;
+    justify-content: space-around;
+        background-color: black;
+
+}
+.img4{ 
+    padding-bottom:400px;
+    
+
+    
+}
+.pragraph4{padding-top: 150px;
+    padding-right: 200px;
+    font-size: 55px;
+
+
+
+}
